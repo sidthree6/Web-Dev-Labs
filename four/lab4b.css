@@ -1,0 +1,85 @@
+
+#header
+{
+	width:100%;
+	display:table;
+	margin:auto;
+	table-layout:fixed;
+	text-align:center;
+}
+
+#header img
+{
+	float: left;
+	display:table-cell;
+	width:33%;
+}
+
+#header a
+{
+	float:right;
+	display:table-cell;
+	width:34%;
+	background-color:#000070;
+	padding:15px 0px 15px 0px;
+	text-decoration:none;
+	color:#FFFFFF;
+	border-radius:15px;
+}
+
+#header h1
+{
+	clear:both;
+	margin: 0 auto;
+	display:table-cell;
+	width:33%;
+}
+
+#navbar
+{
+	float:left;
+	width:20%;
+}
+
+#navbar ul
+{
+	list-style:none;	
+}
+
+#navbar ul li
+{
+	text-align:center;
+	border:1px solid black;
+	margin:10px auto;
+	background-color:#000070;
+	padding:15px 0px 15px 0px;
+	color:#FFFFFF;
+	border-radius:15px;
+}
+
+#content
+{
+	float:right;
+	width:80%;	
+}
+
+#content p
+{
+	padding:0 15px;
+}
+
+#chat
+{
+	position:absolute;
+	bottom:1px;
+	right:1px;
+	border:1px solid #000000;
+	padding:5px;
+	z-index:1;
+}
+
+#chat img
+{
+	width:30px;
+	vertical-align:middle;
+}
