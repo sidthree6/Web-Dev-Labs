@@ -1,0 +1,49 @@
+/* Part 2 CSS Start here */
+ol
+{
+	list-style:lower-roman;
+}
+
+ul
+{
+	list-style-image:url("icon_arrow_small.gif");
+}
+/* Past 2 CSS Ends here */
+
+/* Part 3 CSS Starts here */
+a>img
+{
+	float:right;
+}
+
+p>a
+{
+	text-decoration:none;
+	color:#BD0003;
+}
+
+p>a:hover
+{
+	text-decoration:underline;
+	font-weight:bold;
+}
+/* Past 3 CSS Ends here */
+
+/* Part 4 CSS Starts here */
+table
+{
+	width:800px;
+	margin:auto;
+	border-spacing:0px;
+	border:1px solid #BD0003;
+	border-radius:10px;
+}
+
+tr>th
+{
+	color:#D44F51;
+	font-weight:bold;
+	text-align:right;
+}
+/* Part 4 CSS Ends here */
+
