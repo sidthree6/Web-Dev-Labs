@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Weekly World News Report</title>
+  <subtitle>Events from around the globe</subtitle>
+  <link href="http://www.weeklyworldnews.info" rel="self" />
+  <updated>2013-02-05T08:44:10-05:00</updated>
+  <author>
+    <name>Gudri Porter</name>
+    <email>gporter@weeklyworldnews.info</email>
+  </author>
+  <id></id>
+
+  <entry>
+    <title>Yeti Finds Love In... New Jersey</title>
+    <link>http://www.weeklyworldnews.info/story/581</link>
+    <id>urn:uuid:1bdbb2e6-8aac-c014-696f-766f231c070f</id>
+    <published>2013-01-02T04:01:44-04:00</published>
+    <updated>2013-01-02T04:01:44-04:00</updated>
+    <summary>Residents of Hoboken New Jersey were surprised, to say the least, when a Yeti and a local woman walked into the local Denny's and asked for a table. Later, residents learned that the couple was in love, and living in their town.</summary>
+    <content type="html">Hoboken, NJ: Some residents were delighted, others horrified, all confused. "I thought Yetis lived in Nepal, but what do I know?" said one resident. "What in the world is a Yeti?" asked another. Hobokeners are confused, but also touched by these two lovebirds. At the same time, the Mayor's office has reported a 700% increase in mauling deaths since the Yeti arrived. Some residents think it no coincidence.</content>
+  </entry>
+  <entry>
+    <title>Washington Man Abducted by Family of Bears</title>
+    <link>http://www.weeklyworldnews.info/story/582</link>
+    <id>urn:uuid:756b8b06-565d-bad6-baf8-61c8cf653353</id>
+    <published>2013-01-02T03:57:40-04:00</published>
+    <updated>2013-01-02T03:57:40-04:00</updated>
+    <summary>A man in his early 60s was abducted in Charlotte, Washington late last night. Neighbours claim the perpetrators were a family of three grizzly bears.</summary>
+    <content type="html">Charlotte, WA: A man described as 'very friendly' by his neighbours was abducted last night, by a family of grizzly bears. Since then, his whereabouts are still unknown.
+"He's always been a quiet fella." said his next door neighbour, Alice. "We didn't talk to him much, because of the weird smell coming from his back yard." Late last night, however, Alice peeked out of her front window and caught a glimpse of one large grizzly, and two smaller grizzly bears, carrying off the man wrapped in what appeared to be a carpet. Police are investigating this as a potential homicide, and are asking any other witnesses to come forward.</content>
+  </entry>
+</feed>
